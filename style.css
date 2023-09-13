@@ -349,13 +349,13 @@ footer {
     }
 
     .title {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         line-height: 2rem;
         text-align: center;
         margin-bottom: 1rem;
     }
     .description{
-        font-size: 0.8rem;
+        font-size: 0.9rem;
         text-align: center;
     }
     .main-container{
@@ -374,7 +374,7 @@ footer {
     }
     .card{
         width: 90%;
-        /* gap: 1rem; */
+        gap: 1rem;
         /* height: 50vh; */
     }
     .card h4{
