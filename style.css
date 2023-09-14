@@ -337,7 +337,7 @@ footer {
 
     .web-info {
         width: 100%;
-        /* padding: 1rem; */
+        padding:0 0.8rem;
         position: absolute;
         display: flex;
         flex-direction: column;
@@ -357,6 +357,7 @@ footer {
     .description{
         font-size: 0.9rem;
         text-align: center;
+        padding: 0 1rem;
     }
     .main-container{
         width: 100%;
